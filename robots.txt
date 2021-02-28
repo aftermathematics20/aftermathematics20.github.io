@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: http://www.aftermathematics.org.uk/sitemap.xml

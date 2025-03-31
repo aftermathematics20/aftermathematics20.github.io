@@ -1,59 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>aftermathematics</title>
-    <link href="http://www.aftermathematics.org.uk/feed.xml" rel="self" />
-    <link href="http://www.aftermathematics.org.uk" />
-    <updated>2021-03-08T18:06:02+00:00</updated>
+    <link href="https://www.aftermathematics.org.uk/feed.xml" rel="self" />
+    <link href="https://www.aftermathematics.org.uk" />
+    <updated>2021-02-28T14:26:02+00:00</updated>
     <author>
         <name>brian</name>
     </author>
-    <id>http://www.aftermathematics.org.uk</id>
+    <id>https://www.aftermathematics.org.uk</id>
 
-    <entry>
-        <title>Aftermathematics</title>
-        <author>
-            <name>brian</name>
-        </author>
-        <link href="http://www.aftermathematics.org.uk/about.html"/>
-        <id>http://www.aftermathematics.org.uk/about.html</id>
-
-        <updated>2021-03-08T18:06:02+00:00</updated>
-            <summary>
-                <![CDATA[
-                    Historically, pandemics have forced humans to break with the past and imagine their world anew. This one is no different.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p class="p1">Historically, pandemics have forced humans to break with the past and imagine their world anew. This one is no different. It is a portal, a gateway between one world and the next.</p>
-<p>—<em>Arundhati Roy</em></p>
-</blockquote>
-<p>We began this project in the early spring of 2020 as the first cases of COVID-19 began to appear in the UK.</p>
-<p>With everyday life put on hold, it appeared that the pandemic had given us an opportunity to reimagine – and to remake – our entire society. We started, logically enough, with <a href="http://www.aftermathematics.org.uk/a-is-for-aftermath.html"><strong>A is for Aftermath</strong></a>. That word, which originally referred to the fresh shoots that grow after a harvest, seemed a perfect launchpad for thinking about the pandemic – and spawned the name for the entire series.</p>
-<p><strong>Aftermathematics</strong> is part of our contribution to keeping this portal open, to keep asking the questions that we should never stop asking. Why do we live like this and what sort of lives would we rather lead? Who makes the decisions that control our movements? Is there a price on human life? What would happen if we stopped making this world and made others instead?</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="http://www.aftermathematics.org.uk/media/posts/22/aftermathematics-icon.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="http://www.aftermathematics.org.uk/media/posts/22/responsive/aftermathematics-icon-xs.png 300w ,http://www.aftermathematics.org.uk/media/posts/22/responsive/aftermathematics-icon-sm.png 480w ,http://www.aftermathematics.org.uk/media/posts/22/responsive/aftermathematics-icon-md.png 768w"  alt="icon" width="300" height="287"></figure>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>A is for Aftermath</title>
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.aftermathematics.org.uk/a-is-for-aftermath.html"/>
-        <id>http://www.aftermathematics.org.uk/a-is-for-aftermath.html</id>
+        <link href="https://www.aftermathematics.org.uk/a-is-for-aftermath.html"/>
+        <id>https://www.aftermathematics.org.uk/a-is-for-aftermath.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/8/a.png" medium="image" />
 
-        <updated>2021-02-28T14:00:36+00:00</updated>
+        <updated>2021-02-28T12:37:39+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.aftermathematics.org.uk/media/posts/8/a.png" alt="" />
+                        <img src="https://www.aftermathematics.org.uk/media/posts/8/a.png" alt="" />
                     Out of nowhere, a tiny virus has exploded into a global pandemic. It’s delivered a massive shock to a world&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.aftermathematics.org.uk/media/posts/8/a.png" alt="" />
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/8/a.png" class="type:primaryImage" alt="" /></p>
                 <div id="content" class="style-scope ytd-expander">
 <div id="description" class="style-scope ytd-video-secondary-info-renderer">
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/2ocnIprO09s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
@@ -101,19 +75,20 @@
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.aftermathematics.org.uk/b-is-for-business-as-usual.html"/>
-        <id>http://www.aftermathematics.org.uk/b-is-for-business-as-usual.html</id>
+        <link href="https://www.aftermathematics.org.uk/b-is-for-business-as-usual.html"/>
+        <id>https://www.aftermathematics.org.uk/b-is-for-business-as-usual.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/9/b.png" medium="image" />
 
-        <updated>2021-02-28T12:40:04+00:00</updated>
+        <updated>2021-02-27T12:39:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.aftermathematics.org.uk/media/posts/9/b.png" alt="" />
+                        <img src="https://www.aftermathematics.org.uk/media/posts/9/b.png" alt="" />
                     Business as usual doesn’t exist Business as usual has never existed …at least, not as a ‘normality’ that we can&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.aftermathematics.org.uk/media/posts/9/b.png" alt="" />
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/9/b.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/HbE2jKg743U" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="p1">Business as usual doesn’t exist</p>
 <p class="p1">Business as usual has never existed …at least, not as a ‘normality’ that we can go back to</p>
@@ -139,19 +114,20 @@
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.aftermathematics.org.uk/c-is-for-commonwealth.html"/>
-        <id>http://www.aftermathematics.org.uk/c-is-for-commonwealth.html</id>
+        <link href="https://www.aftermathematics.org.uk/c-is-for-commonwealth.html"/>
+        <id>https://www.aftermathematics.org.uk/c-is-for-commonwealth.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/10/c.png" medium="image" />
 
-        <updated>2021-02-28T12:41:51+00:00</updated>
+        <updated>2021-02-26T12:40:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.aftermathematics.org.uk/media/posts/10/c.png" alt="" />
+                        <img src="https://www.aftermathematics.org.uk/media/posts/10/c.png" alt="" />
                     We get told that to get wealth, we need money. And to get money, we have to do waged work.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.aftermathematics.org.uk/media/posts/10/c.png" alt="" />
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/10/c.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/68F4LZd2goU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="p1">We get told that to get wealth, we need money. And to get money, we have to do waged work.</p>
 <p class="p1">And that the people who own the businesses where we work or the places we live are “wealth creators”.</p>
@@ -182,19 +158,20 @@
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.aftermathematics.org.uk/d-is-for-debt.html"/>
-        <id>http://www.aftermathematics.org.uk/d-is-for-debt.html</id>
+        <link href="https://www.aftermathematics.org.uk/d-is-for-debt.html"/>
+        <id>https://www.aftermathematics.org.uk/d-is-for-debt.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/11/d.png" medium="image" />
 
-        <updated>2021-02-28T14:00:18+00:00</updated>
+        <updated>2021-02-25T14:00:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.aftermathematics.org.uk/media/posts/11/d.png" alt="" />
+                        <img src="https://www.aftermathematics.org.uk/media/posts/11/d.png" alt="" />
                     Without debt there could be no society. “I owe so much to my parents.” “Those doctors saved my life. I’ll&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.aftermathematics.org.uk/media/posts/11/d.png" alt="" />
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/11/d.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/TTwDHVT6nN0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Without debt there could be no society.</p>
 <p>“I owe so much to my parents.” “Those doctors saved my life. I’ll forever be in their debt.” “Thanks for dinner. It’s on me next time.” “If that stranger hadn’t stepped in…” “Do me a favour...?”</p>
@@ -217,19 +194,20 @@
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.aftermathematics.org.uk/e-is-for-economy.html"/>
-        <id>http://www.aftermathematics.org.uk/e-is-for-economy.html</id>
+        <link href="https://www.aftermathematics.org.uk/e-is-for-economy.html"/>
+        <id>https://www.aftermathematics.org.uk/e-is-for-economy.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/12/e.png" medium="image" />
 
-        <updated>2021-02-28T14:03:19+00:00</updated>
+        <updated>2021-02-24T14:01:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.aftermathematics.org.uk/media/posts/12/e.png" alt="" />
+                        <img src="https://www.aftermathematics.org.uk/media/posts/12/e.png" alt="" />
                     The International Monetary Fund says the global economy will lose £9.6tn as a result of the COVID pandemic. That’s £9,600,000,000,000.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.aftermathematics.org.uk/media/posts/12/e.png" alt="" />
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/12/e.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/jd_mxZk3iF8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <div id="content" class="style-scope ytd-expander">
 <div id="description" class="style-scope ytd-video-secondary-info-renderer">
@@ -255,19 +233,20 @@
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.aftermathematics.org.uk/f-is-for-fuck.html"/>
-        <id>http://www.aftermathematics.org.uk/f-is-for-fuck.html</id>
+        <link href="https://www.aftermathematics.org.uk/f-is-for-fuck.html"/>
+        <id>https://www.aftermathematics.org.uk/f-is-for-fuck.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/13/f.png" medium="image" />
 
-        <updated>2021-02-28T14:04:52+00:00</updated>
+        <updated>2021-02-23T14:04:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.aftermathematics.org.uk/media/posts/13/f.png" alt="" />
+                        <img src="https://www.aftermathematics.org.uk/media/posts/13/f.png" alt="" />
                     There are moments, like now, when all we want to do is howl with rage. So we asked a bunch&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.aftermathematics.org.uk/media/posts/13/f.png" alt="" />
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/13/f.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/w-5xkl5xx0s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <div id="content" class="style-scope ytd-expander">
 <p id="description" class="style-scope ytd-video-secondary-info-renderer">There are moments, like now, when all we want to do is howl with rage. So we asked a bunch of friends to do just that, choosing what was making them really bloody angry. Whether you agree with everything or not, enjoy this outpouring of fury.</p>
@@ -281,19 +260,20 @@
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.aftermathematics.org.uk/g-is-for-growth.html"/>
-        <id>http://www.aftermathematics.org.uk/g-is-for-growth.html</id>
+        <link href="https://www.aftermathematics.org.uk/g-is-for-growth.html"/>
+        <id>https://www.aftermathematics.org.uk/g-is-for-growth.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/14/g.png" medium="image" />
 
-        <updated>2021-02-28T14:07:26+00:00</updated>
+        <updated>2021-02-22T14:06:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.aftermathematics.org.uk/media/posts/14/g.png" alt="" />
+                        <img src="https://www.aftermathematics.org.uk/media/posts/14/g.png" alt="" />
                     We like to think that sharks have to keep moving or they die. It’s not really true, but it’s a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.aftermathematics.org.uk/media/posts/14/g.png" alt="" />
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/14/g.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AmKzPgJweBk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="p1">We like to think that sharks have to keep moving or they die. It’s not really true, but it’s a good way of thinking about capitalism.</p>
 <p class="p1">As a system for organising society, capitalism has to keep expanding: its mantra is grow or die.</p>
@@ -318,19 +298,20 @@
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.aftermathematics.org.uk/h-is-for-hunger.html"/>
-        <id>http://www.aftermathematics.org.uk/h-is-for-hunger.html</id>
+        <link href="https://www.aftermathematics.org.uk/h-is-for-hunger.html"/>
+        <id>https://www.aftermathematics.org.uk/h-is-for-hunger.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/15/h.png" medium="image" />
 
-        <updated>2021-02-28T14:20:44+00:00</updated>
+        <updated>2021-02-21T14:07:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.aftermathematics.org.uk/media/posts/15/h.png" alt="" />
+                        <img src="https://www.aftermathematics.org.uk/media/posts/15/h.png" alt="" />
                     Food justice not food charity April 2020: Food banks overwhelmed. 3.4 million people have to use food banks in the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.aftermathematics.org.uk/media/posts/15/h.png" alt="" />
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/15/h.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/6-CfqIXuFrk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="p1">Food justice not food charity</p>
 <p class="p1">April 2020: Food banks overwhelmed. 3.4 million people have to use food banks in the UK. 10,000 cars queue in San Antonio, Texas.</p>
@@ -364,19 +345,20 @@
         <author>
             <name>brian</name>
         </author>
-        <link href="http://www.aftermathematics.org.uk/i-is-for-innovation.html"/>
-        <id>http://www.aftermathematics.org.uk/i-is-for-innovation.html</id>
+        <link href="https://www.aftermathematics.org.uk/i-is-for-innovation.html"/>
+        <id>https://www.aftermathematics.org.uk/i-is-for-innovation.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/16/i.png" medium="image" />
 
-        <updated>2021-02-28T14:11:47+00:00</updated>
+        <updated>2021-02-20T14:10:00+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.aftermathematics.org.uk/media/posts/16/i.png" alt="" />
+                        <img src="https://www.aftermathematics.org.uk/media/posts/16/i.png" alt="" />
                     This was supposed to to be the future. But where are our jetpacks? Our miracle food? Our underwater homes? One&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.aftermathematics.org.uk/media/posts/16/i.png" alt="" />
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/16/i.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/9t_lh2SxKFs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p class="p1">This was supposed to to be the future.</p>
 <p class="p1">But where are our jetpacks? Our miracle food? Our underwater homes?</p>
@@ -402,6 +384,68 @@
 <p class="p1">Unlike capitalism’s anointed innovators, we have the imagination.</p>
 <p class="p1">And unlike capitalism’s anointed innovators, our lives depend upon it.</p>
 <p class="p1">Only we can invent a future.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>J is for Jubilee</title>
+        <author>
+            <name>brian</name>
+        </author>
+        <link href="https://www.aftermathematics.org.uk/j-is-for-jubilee.html"/>
+        <id>https://www.aftermathematics.org.uk/j-is-for-jubilee.html</id>
+        <media:content url="https://www.aftermathematics.org.uk/media/posts/17/j.png" medium="image" />
+
+        <updated>2021-02-19T14:12:00+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.aftermathematics.org.uk/media/posts/17/j.png" alt="" />
+                    Lesson I: Jubilee is heard In 1791 the call of conch shells heralded the start of a slave uprising in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.aftermathematics.org.uk/media/posts/17/j.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/8g4xH8_E1a4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="p1"><strong>Lesson I: Jubilee is heard</strong></p>
+<p class="p1">In 1791 the call of conch shells heralded the start of a slave uprising in the French colony of Saint-Domingue. Twelve years later these Haitian revolutionaries declared independence. They had liberated themselves.</p>
+<p class="p1"><strong>Lesson II: Jubilee is about liberation</strong></p>
+<p class="p1">In the United States, the Emancipation Proclamation came into effective on 1 January 1863. It’s known as the Day of Jubilee. “We are all liberated by this proclamation ... It is a mighty event for the bondman, but it is a still mightier event for the nation at large.”</p>
+<p class="p1">Juneteenth commemorates the emancipation of all those who had been enslaved. It is also known as Freedom Day or Jubilee Day.</p>
+<p class="p1"><strong>Lesson III: Jubilee is about land</strong></p>
+<p class="p1">Denounce the enclosure and privatisation of land.</p>
+<p class="p1">Celebrate the expropriation of the expropriators.</p>
+<p class="p1">In Newcastle, in 1771, commoners resisted the enclosure (privatisation) of their Town Moor. They tore down the landlord’s fences and his house – and drove away his cattle. They won.</p>
+<p class="p1">Local radical Thomas Spence called their day of victory their jubilee. Newcastle’s Town Moor remains an urban commons to this day.</p>
+<p class="p1"><strong>Lesson IV: Jubilee is about the cancellation of debts</strong></p>
+<p class="p1">The world is awash with debt. We are drowning in it. Debt servitude is stifling human creativity and undermining our wellbeing.</p>
+<p class="p1">Growing our way out of debt would require more work and more plunder. It’s not a viable option. Even many conservatives now accept that debt cancellation – a Debt Jubilee – is necessary. It is – for us and for our planet.</p>
+<p class="p1"><strong>Lesson V: Jubilee is a time of fallow</strong></p>
+<p class="p1">Plunder of the soil, of the forests, of the oceans and of other natural wealth continues apace. Our planet the Earth needs a Sabbath more than ever.</p>
+<p class="p1"><strong>Lesson VI: Jubilee is a time of no work</strong></p>
+<p class="p1">Long working hours – waged and unwaged. Stress. Anxiety. Stress. Anxiety. Stress. Anxiety.</p>
+<p class="p1">Overwork is literally killing us. In Japan there is even a word for it.</p>
+<p class="p1">[Karōshi (Japanese) = ‘death from overwork’]</p>
+<p class="p1">We need to escape the planetary work machine. We need a Sabbath as much as the planet does.</p>
+<p class="p1"><strong>Lesson VII: Jubilee is realistic but we must make it ourselves. Its time is now</strong></p>
+<p class="p1">Every ruling class, in every period, has asserted that Jubilee is unrealistic. The ruling class seeks to redefine Jubilee’s meaning – making it a celebration of sovereign power and its continuity.</p>
+<p class="p1">Our freedom must be seized. Our liberty must be self-made. At every point in history, it has been. We have made it so!</p>
+<p class="p1">“We are not to be saved by the captain, but by the crew.”</p>
+<p class="p1">“Who would be free, themselves must strike the blow.”</p>
+<h6 class="p1">References</h6>
+<p class="p1">This film is inspired by and draws heavily on Peter Linebaugh’s article <a href="http://www.midnightnotes.org/pdfnewenc12.pdf">‘Jubilating – Or, How the Atlantic Working Class Used the Biblical Jubilee Against Capitalism, with Some Success’</a>, in Midnight Notes’ <a href="http://www.midnightnotes.org/newenclos.html"><em>New Enclosures</em></a> (1990​).</p>
+<p class="p1">The quotation in Lesson II (“We are all liberated by this proclamation...”) and the first quotation in Lesson VII (“We are not to be saved by the captain...”) are from Frederick Douglass. The second quotation in Lesson VII (“Who would be free...”) is from Lord Byron’s Childe Harold’s Pilgrimage and was frequently quoted by Douglass. The mural that appears in Lesson II is in Belfast, a city Douglas spend some time in during his tour of the British Isles between 1845 and 1847.</p>
+<p class="p1">Newcastle radical Thomas Spence wrote a song to commemorate the Town Moor victory, ‘The Jubilee Hymn; Or A Song to be Sung at the Commencement of the Millennium, If Not Sooner’. Spence suggested his hymn be sung to the tune of God Save the King, which, according to historian Peter Linebaugh, might have its origins in a German beer-drinking tune. The first verse is sung here by <a href="http://www.commonerschoir.com/">Commoners Choir</a>. Thanks to them and, especially, to Boff Whalley, who engineered it.</p>
+<p class="p1">Hark! how the trumpets sound</p>
+<p class="p1">Proclaims the land around</p>
+<p class="p1">The Jubilee!</p>
+<p class="p1">Tells all the poor oppress’d,</p>
+<p class="p1">No more they shall be cess’d,</p>
+<p class="p1">Nor landlords more molest</p>
+<p class="p1">Their property</p>
+<p class="p1">Spence also struck the coins that appear in Lesson VI (‘reclining shepherd’) and Lesson VII (‘After the Revolution’). You can read more about ‘Thomas Spence’s Freedom Coins’ in Peter Linebaugh’s chapter in <em><a href="https://www.plutobooks.com/9780745339405/commoning-with-george-caffentzis-and-silvia-federici/">Commoning with George Caffentzis and Silvia Federici</a></em>.</p>
+<p class="p1">The video clip in Lesson V (‘Jubilee is a time of fallow’) is from Environmental Justice Foundation’s <a href="https://www.youtube.com/watch?v=HmrFkK0fyAQ&amp;t=0s">‘Save the Bees’</a>.</p>
+<p class="p1">On the stultifying effects of anxiety and how we might overcome it, see the Institute of Precarious Consciousness’s 2014 article <a href="https://www.weareplanc.org/blog/we-are-all-very-anxious/">‘We are all very anxious’</a> (https://www.weareplanc.org/blog/we-ar...​).</p>
             ]]>
         </content>
     </entry>
